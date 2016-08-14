@@ -187,7 +187,7 @@ along with Booked Scheduler.  If not, see <http://www.gnu.org/licenses/>.
 					{/if}
 
 					{if $LoggedIn}
-					<li class="menubaritem"><a href="{$Path}info.php"</a>Info</li>
+					<li class="menubaritem"><a href="{$Path}info.php"</a>Map</li>
 					{/if}
 					<li class="menubaritem help"><a href="{$Path}help.php">{translate key=Help}</a>
 						<ul>
